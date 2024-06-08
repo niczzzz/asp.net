@@ -1,0 +1,8 @@
+C:\Users\nnisk\source\repos\niczzzz\asp.net\asp.net_01_Animals.cs\bin\Debug\asp.net_01_Animals.cs.exe.config
+C:\Users\nnisk\source\repos\niczzzz\asp.net\asp.net_01_Animals.cs\bin\Debug\asp.net_01_Animals.cs.exe
+C:\Users\nnisk\source\repos\niczzzz\asp.net\asp.net_01_Animals.cs\bin\Debug\asp.net_01_Animals.cs.pdb
+C:\Users\nnisk\source\repos\niczzzz\asp.net\asp.net_01_Animals.cs\obj\Debug\asp.net_01_Animals.cs.csproj.AssemblyReference.cache
+C:\Users\nnisk\source\repos\niczzzz\asp.net\asp.net_01_Animals.cs\obj\Debug\asp.net_01_Animals.cs.csproj.SuggestedBindingRedirects.cache
+C:\Users\nnisk\source\repos\niczzzz\asp.net\asp.net_01_Animals.cs\obj\Debug\asp.net_01_Animals.cs.csproj.CoreCompileInputs.cache
+C:\Users\nnisk\source\repos\niczzzz\asp.net\asp.net_01_Animals.cs\obj\Debug\asp.net_01_Animals.cs.exe
+C:\Users\nnisk\source\repos\niczzzz\asp.net\asp.net_01_Animals.cs\obj\Debug\asp.net_01_Animals.cs.pdb
