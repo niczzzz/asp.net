@@ -1,0 +1,22 @@
+﻿@page
+
+@using asp_razor.Pages
+@model IndexModel
+
+<h2>Список студентов</h2>
+
+@for (int i = 0; i < Model.students.Count)
+
+
+
+
+<table>
+    <tr><th>Name</th><th>Age</th></tr>
+    @foreach (Person person in Model.DisplayedPeople)
+    {
+        <tr>
+            <td>@person.Name</td>
+            <td>@person.Age</td>
+        </tr>
+    }
+</table>
