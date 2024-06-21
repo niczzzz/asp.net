@@ -1,0 +1,28 @@
+﻿@page
+@model _03_Movies.Pages.Movies.IndexModel
+
+@{
+    ViewData["Title"] = "Каталог фильмов";
+}
+
+<h1>Каталог фильмов</h1>
+
+<p>
+    <a asp-page="Create">Добавить фильм</a>
+</p>
+<table class="table">
+    <tbody>
+@foreach (var item in Model.Movie) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>            
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.Id">Редактировать</a> |
+                <a asp-page="./Details" asp-route-id="@item.Id">Описание</a> |
+                <a asp-page="./Delete" asp-route-id="@item.Id">Удалить</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
