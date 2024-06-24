@@ -1,0 +1,18 @@
+﻿@page
+@model _03_Movies_razor.Pages.IndexModel
+@using _03_Movies_razor
+
+@{
+	Movie mov1 = new Movie("The Godfather", 1972, "Francis Ford Coppola", "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.");
+
+
+}
+
+
+
+<h2>@mov1</h2>
+
+
+<h2>@Model.Message</h2>
+
+<h3>Time: @Model.PrintTime()</h3>
