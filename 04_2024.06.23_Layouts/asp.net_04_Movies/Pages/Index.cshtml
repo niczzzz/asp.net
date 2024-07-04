@@ -1,0 +1,26 @@
+﻿@page
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@using Movies_razor.Models;
+
+@model Movies_razor.Pages.IndexModel
+
+<title>Кинотеатр @ViewBag.Title</title>
+
+<h2>Расписание сеансов:</h2>
+
+<table class="table">
+    <tr><th>День</th><th>Время сеанса</th><th>Цена билета</th><th>Название фильма</th></tr>
+    @foreach (PictureShow pictureShow in Model.DisplayedShows)
+    {
+        <tr>
+            <td>@pictureShow.Day.ToShortDateString()</td>
+
+            <td>@pictureShow.Time</td>
+
+            <td>@pictureShow.Price</td>
+
+            <td>@Model.movies[pictureShow.MovieId].Title</td>
+
+        </tr>
+    }
+</table>

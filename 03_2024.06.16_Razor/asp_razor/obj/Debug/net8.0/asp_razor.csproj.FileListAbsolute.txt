@@ -25,3 +25,14 @@ C:\Users\пользователь\Desktop\asp_razor\obj\Debug\net8.0\refint\asp_
 C:\Users\пользователь\Desktop\asp_razor\obj\Debug\net8.0\asp_razor.pdb
 C:\Users\пользователь\Desktop\asp_razor\obj\Debug\net8.0\asp_razor.genruntimeconfig.cache
 C:\Users\пользователь\Desktop\asp_razor\obj\Debug\net8.0\ref\asp_razor.dll
+C:\GitHub\asp.net\03_2024.06.16_Razor\asp_razor\obj\Debug\net8.0\asp_razor.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\asp.net\03_2024.06.16_Razor\asp_razor\obj\Debug\net8.0\asp_razor.AssemblyInfoInputs.cache
+C:\GitHub\asp.net\03_2024.06.16_Razor\asp_razor\obj\Debug\net8.0\asp_razor.AssemblyInfo.cs
+C:\GitHub\asp.net\03_2024.06.16_Razor\asp_razor\obj\Debug\net8.0\asp_razor.csproj.CoreCompileInputs.cache
+C:\GitHub\asp.net\03_2024.06.16_Razor\asp_razor\obj\Debug\net8.0\asp_razor.MvcApplicationPartsAssemblyInfo.cache
+C:\GitHub\asp.net\03_2024.06.16_Razor\asp_razor\obj\Debug\net8.0\asp_razor.RazorAssemblyInfo.cache
+C:\GitHub\asp.net\03_2024.06.16_Razor\asp_razor\obj\Debug\net8.0\asp_razor.RazorAssemblyInfo.cs
+C:\GitHub\asp.net\03_2024.06.16_Razor\asp_razor\obj\Debug\net8.0\asp_razor.sourcelink.json
+C:\GitHub\asp.net\03_2024.06.16_Razor\asp_razor\obj\Debug\net8.0\asp_razor.dll
+C:\GitHub\asp.net\03_2024.06.16_Razor\asp_razor\obj\Debug\net8.0\refint\asp_razor.dll
+C:\GitHub\asp.net\03_2024.06.16_Razor\asp_razor\obj\Debug\net8.0\asp_razor.pdb
